@@ -1,0 +1,13 @@
+.nav_container {
+    background-color: black;
+    justify-content: end;
+    display: flex;
+    width: 100%;
+    flex-wrap: wrap;
+    overflow: hidden;
+    margin-bottom: 20px;
+}
+.nav_container p{
+    color: white;
+    padding: 10px;
+}
